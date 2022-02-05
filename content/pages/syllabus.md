@@ -43,11 +43,48 @@ This is a reading and discussion seminar. Two students are assigned each week to
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Class Participation | 50% |
-| Class Discussion Leading | 25% |
-| Response Papers | 25% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Discussion Leading
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Response Papers
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Exams
 -----
@@ -57,16 +94,117 @@ There is no final exam for this course. Students are asked to take a "pre-test" 
 Calendar
 --------
 
-| SES # | TOPICS |
-| --- | --- |
-| 1 | Foundations: Ethnography & Social Theory |
-| 2 | Climate Change, and Creating Useable Social Theories for 21st Century: MetaNarratives & Local Narratives |
-| 3 | The Force of the Social: Emotion, Trauma, Organs, the Durkheimian Challenge & Social Anthropology |
-| 4 | Subjectivity and Displacements of the Rational: The Freudian and Lacanian Challenge |
-| 5 | System Transformation, Social Formations, Multiple Historical Horizons: The Marxian Challenge |
-| 6 | Meaningful Social Action in Post-Bureaucratic Worlds: The Weberian Challenge, Hermeneutics & Interpretive Anthropology |
-| 7 | Media, the Culture Industry, Visualization: The Challenge of the Frankfurt School and Critical Theory |
-| 8 | Structuralism & Poststructuralism: French Theory |
-| 9 | Biology in the World |
-| 10 | Material-Semiotic Objects, Companion Species, & Other Objects |
-| 11 | New Media, Visualization, Networks, Infrastructures, Open Source, Surveillance
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Foundations: Ethnography & Social Theory
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Climate Change, and Creating Useable Social Theories for 21st Century: MetaNarratives & Local Narratives
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+The Force of the Social: Emotion, Trauma, Organs, the Durkheimian Challenge & Social Anthropology
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Subjectivity and Displacements of the Rational: The Freudian and Lacanian Challenge
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+System Transformation, Social Formations, Multiple Historical Horizons: The Marxian Challenge
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Meaningful Social Action in Post-Bureaucratic Worlds: The Weberian Challenge, Hermeneutics & Interpretive Anthropology
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Media, the Culture Industry, Visualization: The Challenge of the Frankfurt School and Critical Theory
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Structuralism & Poststructuralism: French Theory
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Biology in the World
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Material-Semiotic Objects, Companion Species, & Other Objects
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+New Media, Visualization, Networks, Infrastructures, Open Source, Surveillance
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
